@@ -3,7 +3,7 @@ class Hello:
         print('hello, world')
 
     def add(self, x, y):
-        print("x+y=", (x+y))
+        # print("x+y=", (x+y))
         a = x
         b = y
         return (a+b)
